@@ -1,4 +1,4 @@
-.gradle
+../aula-01/.gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
