@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0fb608-b42d-4114-8889-db3484faf545" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula-01/src/main/java/org/example/nome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula-01/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aula-01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula-01/src/main/java/org/example/exerciciodois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,11 @@
     "last_opened_file_path": "C:/Users/coder/Desktop/aulas"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\coder\Desktop\aulas\.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
