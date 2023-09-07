@@ -13,7 +13,7 @@ public class MaiorMenorMedia {
         System.out.println("Digite mais um número: ");
         double numero2 = scanner.nextDouble();
 
-        System.out.println("Agora, o ultimo número:  ");
+        System.out.println("Agora, digite o ultimo número:  ");
         double numero3 = scanner.nextDouble();
 
         double maior = Math.max(numero1, Math.max(numero2, numero3));
