@@ -4,9 +4,10 @@ import java.time.LocalTime;
 
 public class ContaBancaria {
 
-    //public static void main(String[] args) {
-        //ContaBancaria teste = new ContaBancaria();
-    //}
+    public static void main(String[] args) {
+
+        ContaBancaria ContaBancaria = new ContaBancaria();
+    }
 
     String nome;
     private String cpf;
