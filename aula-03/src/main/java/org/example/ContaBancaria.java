@@ -1,6 +1,6 @@
-package org.example;
 //exercicio 01 da aula-03
 
+package org.example;
 import java.time.LocalTime;
 
 public class ContaBancaria {
