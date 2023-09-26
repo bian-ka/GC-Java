@@ -1,5 +1,5 @@
 package org.example;
-
+//exercicio 01 aula-04
 public abstract class Veiculo {
 
     public String marca;
