@@ -1,5 +1,5 @@
 package org.example;
-
+//exercicio 01 aula-04
 import java.util.Scanner;
 
 public class Carro extends Veiculo {
