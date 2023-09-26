@@ -1,12 +1,9 @@
 package org.example;
+//exercicio 01 da aula-03
 
 import java.time.LocalTime;
 
 public class ContaBancaria {
-
-    //public static void main(String[] args) {
-        //ContaBancaria teste = new ContaBancaria();
-    //}
 
     String nome;
     private String cpf;
@@ -61,5 +58,4 @@ public class ContaBancaria {
     public void verificarInformacoes() {
         System.out.println("Estas são as informações da conta bancária: " + nome + cpf + identificadorConta + banco + endereco);
     }
-
 }
