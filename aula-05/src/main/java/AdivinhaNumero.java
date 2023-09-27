@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
+//exercicio 02 da aula-05
 
 public class AdivinhaNumero {
 
@@ -30,9 +31,9 @@ public class AdivinhaNumero {
         }
 
         if (encontrado) {
-            System.out.println("Rolou");
+            System.out.println("Você acertou!");
         } else {
-            System.out.println("Não rolou");
+            System.out.println("Ops! Não foi dessa vez.");
         }
 
         scanner.close();
