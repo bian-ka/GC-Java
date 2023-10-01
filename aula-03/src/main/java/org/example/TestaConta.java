@@ -1,7 +1,6 @@
 package org.example;
-
 import java.util.Scanner;
-
+//exercicio 01 da aula 03
 public class TestaConta {
 
     public static void main(String[] args) {
