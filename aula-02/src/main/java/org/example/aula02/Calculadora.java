@@ -7,6 +7,8 @@ public class Calculadora {
 
         Scanner input = new Scanner(System.in);
 
+        while (true) {
+
         int operacao;
         double resultado = 0;
 
@@ -45,5 +47,13 @@ public class Calculadora {
         }
 
         System.out.println("O resultado da operação é: " + resultado);
+
+        System.out.println("Digite qualquer coisa para continuar e N para encerrar.");
+        String entrada = input.next();
+
+        if(entrada.equalsIgnoreCase("n")) {
+            break;
+        }
+        }
     }
 }
