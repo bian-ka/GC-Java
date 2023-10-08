@@ -18,6 +18,7 @@ public class ListaDeTarefas {
             System.out.println("2. Remover tarefa.");
             System.out.println("3. Exibir todas as tarefas");
             int entradaMenu = scanner.nextInt();
+
             if (scanner.hasNextLine()) {
                 scanner.nextLine();
             }
@@ -56,9 +57,7 @@ public class ListaDeTarefas {
                 break;
             }
 
-
         }
-
 
     }
 }

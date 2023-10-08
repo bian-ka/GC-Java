@@ -14,8 +14,6 @@ public class Tarefa {
         this.descricao = descricao;
     }
 
-
-    // toString
     public String toString() {
         return "\n" + "T: " + titulo + ", D: " + data.toString() + ", Desc: " + descricao;
     }
