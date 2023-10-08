@@ -51,9 +51,7 @@ public class ListaDeTarefas {
             System.out.println("2. sair");
             int escolha = scanner.nextInt();
 
-            if(escolha == 1) {
-                continue;
-            } else {
+            if (escolha == 2) {
                 break;
             }
 
