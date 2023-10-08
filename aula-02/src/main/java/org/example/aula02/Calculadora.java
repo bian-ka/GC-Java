@@ -1,8 +1,8 @@
 package org.example.aula02;
 import java.util.Scanner;
 
+// exercicio 04 aula-02
 public class Calculadora {
-
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -54,6 +54,7 @@ public class Calculadora {
         if(entrada.equalsIgnoreCase("n")) {
             break;
         }
+
         }
     }
 }
