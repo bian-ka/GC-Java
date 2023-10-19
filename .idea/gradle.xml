@@ -12,6 +12,30 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/aula-02" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/aula-02" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/aula-03" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/aula-03" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/aula-04" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/aula-04" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
