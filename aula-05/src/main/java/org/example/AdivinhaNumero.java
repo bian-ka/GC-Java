@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.Random;
 import java.util.Scanner;
 //exercicio 02 da aula-05
