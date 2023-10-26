@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c0fb608-b42d-4114-8889-db3484faf545" name="Changes" comment="" />
+    <list default="true" id="6c0fb608-b42d-4114-8889-db3484faf545" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula-06/src/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula-06/src/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula-06/src/PilhaDelivros.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula-06/src/PilhaDelivros.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +86,10 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "/Users/aluno/Desktop/GC-Java",
-    "onboarding.tips.debug.path": "/Users/aluno/Desktop/GC-Java/aula-06/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/aluno/Desktop/GC-Java/aula-05/aula-06/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
@@ -187,6 +194,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aula-05/aula-06/src/Main.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
