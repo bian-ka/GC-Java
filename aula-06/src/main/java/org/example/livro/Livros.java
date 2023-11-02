@@ -1,4 +1,4 @@
-package org.example;
+package org.example.livro;
 
 // exercicio 01 aula-06
 public class Livros {
